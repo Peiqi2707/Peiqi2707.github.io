@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "2024 Esplanade Octoburst performance",
+    "description": "Participated as a member of the Frontier Primary School choir for a public performance at the Esplanade Octoburst festival.",
+    "date": "2024",
+    "image": "/images/Choir.png"
+  },
+  {
+    "id": "2",
+    "title": "2024 National Day Performance at Frontier CC",
+    "description": "Performed as part of the school choir during Singapore's National Day celebrations at Frontier Community Centre.",
+    "date": "2024",
+    "image": "/images/Choir.png"
+  },
+  {
+    "id": "3",
+    "title": "P3 LLP DANCEFRONT Programme",
+    "description": "Completed the Ethnic Dance Programme conducted by En Avant Arts as part of the school's Learning for Life Programme.",
+    "date": "May 24, 2022",
+    "image": "/images/P3_LLP_DANCEFRONT.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Edusave Certificate of Academic Achievement - Primary 4",
+    "description": "Awarded for achieving good academic performance and demonstrating good conduct during the Primary 4 school year.",
+    "date": "2023",
+    "image": "/images/Edusave_2023.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Edusave Certificate of Academic Achievement - Primary 5",
+    "description": "Awarded for achieving good academic performance and demonstrating good conduct during the Primary 5 school year.",
+    "date": "2024",
+    "image": "/images/Edusave_2024.jpg"
+  },
+  {
+    "id": "6",
+    "title": "CCC-CDC Education Merit Award - Primary 4",
+    "description": "Awarded by the People's Association and South West Community Development Council for academic excellence in Primary 4.",
+    "date": "2023",
+    "image": "/images/CCC_CDC_EDUCATION_MERIT_AWARD_2023.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Singapore Primary Science Olympiad 2024",
+    "description": "Participated in the nationwide Science Olympiad organized by NUS High School of Mathematics and Science.",
+    "date": "2024",
+    "image": "/images/SINGAPORE_PRIMARY_SCIENCE_OLYMPIAD_2024.jpg"
+  },
+  {
+    "id": "8",
+    "title": "华文大比拼 2024",
+    "description": "Participated in the 11th National Chinese Challenge (Primary School category), a nationwide Chinese language competition.",
+    "date": "March 9, 2024",
+    "image": "/images/HUA_WEN_DA_BI_PING_2024.jpg"
+  },
+  {
+    "id": "9",
+    "title": "The Buddy Reading Programme 2023",
+    "description": "Performed the role of a P4 Buddy Reader, helping P2 students with their reading skills during Term 2.",
+    "date": "2023",
+    "image": "/images/THE_BUDDY_READING_PROGRAMME_2023.jpg"
+  },
+  {
+    "id": "10",
+    "title": "SwimSafer Stage 2 Award",
+    "description": "Successfully completed all the swimming, water safety and survival skills to fulfill the requirements of SWIMSAFER 2.0 STAGE 2.",
+    "date": "September 11, 2023",
+    "image": "/images/SWIMSAFER_STAGE_2.png"
+  },
+  {
+    "id": "11",
+    "title": "SwimSafer Stage 3 Award",
+    "description": "Successfully completed all the swimming, water safety and survival skills to fulfill the requirements of SWIMSAFER 2.0 STAGE 3.",
+    "date": "September 2, 2024",
+    "image": "/images/SWIMSAFER_STAGE_3.png"
+  },
+  {
+    "id": "12",
+    "title": "Class eLF - Group Leader (Chinese)",
+    "description": "Served as a Group Leader for Chinese class in Semester 2, fulfilling leadership responsibilities as outlined in the Class eLF Contract.",
+    "date": "2023",
+    "image": "/images/Group_leader_chinese.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Class eLF - Acad Leader",
+    "description": "Served as an Academic Leader in class P 3-4, helping peers with academic matters as outlined in the Class eLF Contract.",
+    "date": "August 1, 2022",
+    "image": "/images/Acad_leader.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Class eLF - Welfare Leader",
+    "description": "Served as a Welfare Leader in Semester 2, attending to classmates' welfare needs as outlined in the Class eLF Contract.",
+    "date": "July 26, 2021",
+    "image": "/images/Welfare_leader.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Class eLF - Group Leader",
+    "description": "Served as a Group Leader in Semester 2, managing group activities and responsibilities as outlined in the Class eLF Contract.",
+    "date": "July 27, 2021",
+    "image": "/images/Welfare_leader.jpg"
+  }
+]

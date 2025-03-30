@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // GitHub Pages settings
-  basePath: process.env.NODE_ENV === 'production' ? '/DSA-portfolio-website-template' : '',
+  // For username.github.io repositories, basePath should be empty
+  basePath: '',
   // Use trailingSlash to help with file paths when opening locally
   trailingSlash: true,
 };
