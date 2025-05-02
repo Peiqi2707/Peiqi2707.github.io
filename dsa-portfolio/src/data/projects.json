@@ -2,21 +2,21 @@
     {
       "id": "1",
       "title": "Turtle Race",
-      "description": "",
+      "description": "A Python Turtle graphics game where multiple turtles race across the screen using random movements to determine the winner.",
       "image": "/images/turtle.png",
       "tags": ["Python", "Turtle", "Random"]
     },
     {
       "id": "2",
       "title": "Lemonoid",
-      "description": "",
+      "description": "A physics-based Scratch game where players control a spaceship to blast meteorites in the shape of lemons.",
       "image": "/images/lemon.png",
       "tags": ["Scratch"]
     },
     {
       "id": "3",
       "title": "Who Wants To Be A Millionaire",
-      "description": "",
+      "description": "A quiz game inspired by the TV show Who Wants To Be A Millionaire, built in Scratch with multiple-choice questions, lifelines, and scoring managed through Scratch variables and broadcasts.",
       "image": "/images/wwtbam.png",
       "demoLink": "",
       "tags": ["Scratch", "Science"]
@@ -24,7 +24,7 @@
     {
       "id": "4",
       "title": "Rock Paper Scissors",
-      "description": "",
+      "description": "The classic Rock Paper Scissors game implemented in Scratch, using sprite costumes for choices and random number blocks to simulate the computer's move.",
       "image": "/images/rps.png",
       "tags": ["Scratch"]
     }
