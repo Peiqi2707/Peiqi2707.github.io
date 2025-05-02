@@ -8,13 +8,27 @@
   },
   {
     "id": "2",
+    "title": "Polymath Coding Basic Python Programme",
+    "description": "Completed basic python programming course conducted by Polymath Coding",
+    "date": "2025",
+    "image": "/images/pq_python.png"
+  },
+  {
+    "id": "3",
+    "title": "Polymath Coding Basic Scratc Programme",
+    "description": "Completed basic Scratc programming course conducted by Polymath Coding",
+    "date": "2025",
+    "image": "/images/pq_scratch.png"
+  },
+  {
+    "id": "16",
     "title": "2024 National Day Performance at Frontier CC",
     "description": "Performed as part of the school choir during Singapore's National Day celebrations at Frontier Community Centre.",
     "date": "2024",
     "image": "/images/Choir.png"
   },
   {
-    "id": "3",
+    "id": "17",
     "title": "P3 LLP DANCEFRONT Programme",
     "description": "Completed the Ethnic Dance Programme conducted by En Avant Arts as part of the school's Learning for Life Programme.",
     "date": "May 24, 2022",
