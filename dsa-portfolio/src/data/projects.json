@@ -9,7 +9,7 @@
     {
       "id": "2",
       "title": "Lemonoid",
-      "description": "A physics-based Scratch game where players control a spaceship to blast meteorites in the shape of lemons.",
+      "description": "A bullet hell Scratch game where players control a spaceship to blast meteorites in the shape of lemons.",
       "image": "/images/lemon.png",
       "demoLink": "https://scratch.mit.edu/projects/1110657114/",
       "tags": ["Scratch"]
